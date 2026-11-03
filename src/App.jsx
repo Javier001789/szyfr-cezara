@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <h1>salfetka</h1>
-          <h2>sperma228148</h2>
+          <h2>148</h2>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
